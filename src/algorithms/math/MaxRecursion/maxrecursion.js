@@ -1,5 +1,5 @@
 /**
- * @function findMaxRecursion
+ * @function maxRecursion
  * @description This algorithm will find the maximum value of a array of numbers.
  *
  * @param {Integer[]} arr Array of numbers
