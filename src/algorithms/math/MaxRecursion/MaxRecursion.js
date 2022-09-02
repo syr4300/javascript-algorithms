@@ -1,4 +1,4 @@
- /*
+/*
  * @function maxRecursion
  * @description This algorithm will find the maximum value of a array of numbers.
  *
