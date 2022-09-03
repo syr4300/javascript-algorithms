@@ -9,7 +9,7 @@
  * @return {Integer} Maximum value of the array
  */
 
-function maxRecursion (arr, left, right) {
+function maxRecursion(arr, left, right) {
   const len = arr.length
   if (len === 0 || !arr) {
     return undefined
